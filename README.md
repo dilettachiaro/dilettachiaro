@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there, I am Diletta👋
 
 #### A PhD student in Artificial Intelligence @UNINA
