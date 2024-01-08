@@ -1,8 +1,8 @@
 <div align="center">
 
-### Hi there, I am Diletta👋
+### Hi there 👋, I am Diletta
 
-#### A PhD student in Artificial Intelligence @UNINA
+#### A PhD student in Artificial Intelligence [@UNINA](https://www.unina.it/)
 
 <!--
 **dilettachiaro/dilettachiaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
