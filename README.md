@@ -20,7 +20,9 @@
 ## Connect with me:
 
 <!--
-Future adjs: imgs taken from imgur.com
+Future adjs: imgs taken from:
+- imgur.com
+- icon-icons.com
 -->
 
 [<img src="https://i.imgur.com/OQUXwNp.jpeg" width="40">](https://www.linkedin.com/in/dilettachiaro/)
@@ -28,9 +30,6 @@ Future adjs: imgs taken from imgur.com
 
 
 ## Languages and Tools:
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[<img src="https://i.imgur.com/qPuU4nS.jpeg" width="40">](https://www.python.org)
+[<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png" width="40">](https://www.tensorflow.org)
+[<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png" width="40">](https://pytorch.org)
