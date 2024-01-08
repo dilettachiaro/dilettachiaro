@@ -1,3 +1,4 @@
+<div align="center">
 
 ### Hi there, I am Diletta👋
 
@@ -7,6 +8,9 @@
 **dilettachiaro/dilettachiaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+---
+
+</div>
 
 - 🔭 I’m currently working on Federated Learning, XAI
 - 🌱 I’m currently learning Drug Generation
