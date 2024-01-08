@@ -19,7 +19,7 @@
 
 ## Connect with me:
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin))](https://www.linkedin.com/in/dilettachiaro/)
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dilettachiaro/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717)](https://github.com/dilettachiaro)
 
 
