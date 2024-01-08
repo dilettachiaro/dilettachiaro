@@ -24,7 +24,7 @@ Future adjs: imgs taken from imgur.com
 -->
 
 [<img src="https://i.imgur.com/OQUXwNp.jpeg" width="40">](https://www.linkedin.com/in/dilettachiaro/)
-[<img src="https://i.imgur.com/J6LeoUb.png" width="60">](https://github.com/dilettachiaro)
+[<img src="https://i.imgur.com/J6LeoUb.png" width="50">](https://github.com/dilettachiaro)
 
 
 ## Languages and Tools:
