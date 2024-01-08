@@ -19,9 +19,12 @@
 
 ## Connect with me:
 
-[<img src="https://i.imgur.com/OQUXwNp.jpeg" width="30">](https://www.linkedin.com/in/dilettachiaro/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717)](https://github.com/dilettachiaro)
+<!--
+Future adjs: imgs taken from imgur.com
+-->
 
+[<img src="https://i.imgur.com/OQUXwNp.jpeg" width="50">](https://www.linkedin.com/in/dilettachiaro/)
+[<img src="https://i.imgur.com/J6LeoUb.png" width="50">](https://github.com/dilettachiaro)
 
 
 ## Languages and Tools:
