@@ -20,6 +20,7 @@
 ## Connect with me:
 
 [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dilettachiaro/)
+[<img src="https://i.stack.imgur.com/gVE0j.png" width="30">](https://www.linkedin.com/in/dilettachiaro/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717)](https://github.com/dilettachiaro)
 
 
