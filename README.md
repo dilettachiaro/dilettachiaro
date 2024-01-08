@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I am Diletta
 
-#### A PhD student in Artificial Intelligence [<span style="color: black;">@M.O.D.A.L</span>](https://www.labdma.unina.it),[<span style="color: black;">UNINA</span>](https://www.unina.it/)
+#### A PhD student in Artificial Intelligence @[<span style="color: black;">M.O.D.A.L</span>](https://www.labdma.unina.it) @[<span style="color: black;">UNINA</span>](https://www.unina.it/)
 
 <!--
 **dilettachiaro/dilettachiaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
