@@ -8,7 +8,7 @@
 **dilettachiaro/dilettachiaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<hr style="height:3px; border:none; color:#333; background-color:#333;">
+<hr style="height:1px; border:none; color:#333; background-color:#333;">
 
 </div>
 
