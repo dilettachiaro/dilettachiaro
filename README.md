@@ -31,7 +31,7 @@ Future adjs: imgs taken from:
 
 [<img src="https://i.imgur.com/OQUXwNp.jpeg" width="40">](https://www.linkedin.com/in/dilettachiaro/)
 [<img src="https://i.imgur.com/J6LeoUb.png" width="50">](https://github.com/dilettachiaro)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" width="50">](https://www.researchgate.net/profile/Diletta-Chiaro)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" width="40">](https://www.researchgate.net/profile/Diletta-Chiaro)
 
 ## Languages and Tools:
 [<img src="https://i.imgur.com/qPuU4nS.jpeg" width="40">](https://www.python.org)
