@@ -16,7 +16,6 @@
 - 🌱 I’m currently learning Drug Generation
 - 💬 Ask me about Federated Learning
 - 📫 How to reach me: dilettachiaro@outlook.com, diletta.chiaro@unina.it
-- 😄 Pronouns: She/Her
 
 
 
