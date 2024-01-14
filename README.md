@@ -13,7 +13,7 @@
 </div>
 
 - 🔭 I’m currently working on Federated Learning, XAI
-- 🌱 I’m currently learning Drug Generation
+- 🌱 I’m currently learning Drug Generation, SQL, AWS
 - 💬 Ask me about Federated Learning
 - 📫 How to reach me: dilettachiaro@outlook.com, diletta.chiaro@unina.it
 
